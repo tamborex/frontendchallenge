@@ -56,6 +56,10 @@ h1 {
     font-size: 25px;
 }
 
+h1:hover {
+    color: hsl(47, 88%, 63%);
+}
+
 .description {
     font-size: 18px;
     color: hsl(0, 0%, 42%);
